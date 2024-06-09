@@ -1,4 +1,4 @@
-#Connectify
+# Connectify
 Connectify is an innovative chat application designed to enhance real-time communication and collaboration. This app aims to provide users with a seamless, user-friendly interface for instant messaging.
 
 Features
